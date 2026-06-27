@@ -17,6 +17,8 @@ main:
     dropdown-items:
       - title: TransferVox for Dubber
         url: /dubber
+      - title: Dubber for Make
+        url: /dubber-for-make
       - title: Dubber ↔ Dynamics 365
         url: /dubber-and-dynamics365
       - title: Dubber ↔ Salesforce
